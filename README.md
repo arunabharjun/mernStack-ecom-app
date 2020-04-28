@@ -11,8 +11,8 @@ Hope you'll like it :)
 
 ## Screenshots -
 
-![](ss1.png) ![](ss2.png) ![](ss3.png)
+![](screenshots/ss1.png) ![](screenshots/ss2.png) ![](screenshots/ss3.png)
 
-![](ss4.png) ![](ss5.png) ![](ss6.png)
+![](screenshots/ss4.png) ![](screenshots/ss5.png) ![](screenshots/ss6.png)
 
-![](ss7.png) ![](ss8.png)
+![](screenshots/ss7.png) ![](screenshots/ss8.png)
